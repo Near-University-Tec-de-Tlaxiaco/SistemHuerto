@@ -8,7 +8,7 @@
 <br />
 <br />
 
-## Buying DapCoffee with near token
+## Buying IceCream with near token
 ### Requirements
 ##### IMPORTANT: Make sure you have the latest version of NEAR Shell and Node Version > 10.x 
 

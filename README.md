@@ -103,3 +103,5 @@ NOTE: This uses [render.com](https://icecream.onrender.com) to publish resulting
 - Brisa Osorio Front End
 - Jazmin López Documentation
 - Javier Noé Tester
+
+### team

@@ -6,7 +6,7 @@ import IceCream from "../../components/iceCream/iceCream";
 import BuildControls from "../../components/iceCream/BuildControls/BuildControls";
 import { Redirect } from "react-router-dom";
 
-class iceCreamBuilder extends Component {
+class IceCreamBuilder extends Component {
   componentDidMount() {
     this.props.onInitIngredients();
     this.props.onCheckPurchased();
